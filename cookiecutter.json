@@ -1,10 +1,10 @@
 {
     "project_name": "project_name",
     "repo_name": "{{ cookiecutter.project_name|replace(' ', '_') }}",
-    "author_name": "Your Name",
-    "email": "Your email",
+    "author_name": "Nuruddin Iminokhunov",
+    "email": "nuruddin.iminohunov@gmail.com",
     "description": "A short description of the project.",
-    "domain_name": "example.com",
+    "domain_name": "iutlab.uz",
     "version": "0.1.0",
     "timezone": "UTC",
     "now": "2016/01/29",
